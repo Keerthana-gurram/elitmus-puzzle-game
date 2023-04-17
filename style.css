@@ -160,3 +160,23 @@ button.social-signin.twitter {
 button.social-signin.google {
   background: #DD4B39;
 }
+body{
+  background:url(https://i.pinimg.com/originals/94/67/7d/94677d34682d05edb293a7d7f05d6ec5.jpg)
+}
+
+
+.welcome-text a{
+  border: 1px solid red;
+  padding: 10px 25px;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 14px;
+  margin-top: 20px;
+  display: inline-block;
+  color: black;
+}
+.welcome-text a:hover{
+  background: green;
+  color:black;
+}
+
