@@ -27,20 +27,20 @@ ScreenShot
  </p>
  
  
- **Level3:this level a video will be played we need to crack the Question (listening skills)**
+ **Level3:This level a video will be played we need to crack the Question (listening skills)**
  <p>
   <img src="2023-04-17 (3).png" alt="Alt text" width="700"/>
   
  </p>
  
- **Level4:this level u need to crack the hidden code which was hiddded in webpage itself.(visual Thiking)**
+ **Level4:This level You need to crack the hidden code which was hiddded in webpage itself.(visual Thiking)**
  <p>
   <img src="2023-04-17 (4).png" alt="Alt text" width="700"/>
   
  </p>
  
  
- **Level5:this level u need to slove the puzzle.**
+ **Level5:This level you need to slove the puzzle.**
  <p>
   <img src="2023-04-17 (5).png" alt="Alt text" width="700"/>
   
