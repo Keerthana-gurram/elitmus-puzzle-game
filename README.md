@@ -49,7 +49,7 @@ ScreenShot
  
  
  **Deployed with Netify and link for Website:**
-https://app.netlify.com/sites/singular-centaur-cc6ce9/deploys/64a66e79f8e2254e0c202710
+https://64a66e79f8e2254e0c202710--singular-centaur-cc6ce9.netlify.app/
  
  
  
